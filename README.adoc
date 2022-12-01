@@ -1,0 +1,11 @@
+= Gradle template project
+:toc:
+
+[.float-group]
+--
+[.left]
+image::https://img.shields.io/badge/License-MIT-yellow.svg[License: MIT,link="https://opensource.org/licenses/MIT"]
+
+[.left]
+image::https://github.com/0x6675636b796f75676974687562/diktat-demo-gradle.kts/actions/workflows/build.yml/badge.svg?branch=master[,link="https://github.com/0x6675636b796f75676974687562/diktat-demo-gradle.kts/actions/workflows/build.yml?query=branch%3Amaster"]
+--
