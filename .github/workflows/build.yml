@@ -40,5 +40,7 @@ jobs:
         with:
           gradle-version: wrapper
           arguments: |
+            -Pgpr.user=${{ secrets.GPR_USER }}
+            -Pgpr.key=${{ secrets.GPR_KEY }}
             build
             publish
