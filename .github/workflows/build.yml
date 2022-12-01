@@ -40,8 +40,6 @@ jobs:
         with:
           gradle-version: wrapper
           arguments: |
-            -Pgpr.user=${GITHUB_ACTOR}
-            -Pgpr.key=${{ secrets.GITHUB_TOKEN }}
             build
             publish
         env:
