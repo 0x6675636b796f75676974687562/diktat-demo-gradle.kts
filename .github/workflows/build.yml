@@ -41,3 +41,4 @@ jobs:
           gradle-version: wrapper
           arguments: |
             build
+            publish
