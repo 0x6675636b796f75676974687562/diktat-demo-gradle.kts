@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     kotlin("jvm") version "1.7.0"
-    id("org.cqfn.diktat.diktat-gradle-plugin") version "1.2.3"
+    id("org.cqfn.diktat.diktat-gradle-plugin") version "1.2.4.2"
     eclipse
     `maven-publish`
 }
